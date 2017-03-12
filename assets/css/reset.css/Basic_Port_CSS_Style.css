@@ -1,0 +1,227 @@
+body {
+    background-image: url("http://wallpapercave.com/wp/lf6n9hT.png");
+    margin: auto;
+    background-size: 150%;
+
+}
+
+header {
+  font-family: 'Rubik Mono One', sans-serif;
+  text-align: center;
+  padding: 35px;
+  margin-bottom: 0px;
+}
+
+footer {
+  font-family: 'Rubik Mono One', sans-serif;
+  font-size: 14pt;
+  position: static; 
+  left: 0 ; right: 0; bottom: 5px; 
+  text-align: center;
+  height: 75px;
+  clear: both;
+}
+
+
+aside  {
+  float: left;
+  text-align: left;
+  width: 15%;
+  height: auto;
+  clear: both;
+  padding: 10px;
+  margin-left: 150px;
+  margin-right: 450px;
+  background: #EAECEE;
+}
+
+h1 {font-family: 'Rubik Mono One', sans-serif;
+	font-size: 20pt;
+	margin-top: 0px;
+  margin-bottom: 0px;
+	color: #808B96;
+}
+
+h2 {font-family: 'Rubik Mono One', sans-serif;
+	font-size: 16pt;
+	margin-top: 12px;
+  margin-bottom: 0px;
+	color: #17202A;
+}
+
+h3 {font-family: 'Rubik Mono One', sans-serif;
+	font-size: 14pt;
+	color: #273746;
+}
+
+h4 {font-family: 'Rubik Mono One', sans-serif;
+  font-size: 8pt;
+  margin-top: 12px;
+  margin-bottom: 0px;
+  color: #17202A;
+}
+
+p {font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 16pt;
+  color:#17202A;
+}
+
+
+#Aboutme {
+  text-align: left;
+  float: left;
+  width: 50%;
+  height: 340px;
+  clear: both;
+  padding: 0px 30px 50px 30px;
+  margin-left: 150px;
+  margin-top: 50px;
+  margin-bottom: 60px;
+  background: #EAECEE;
+}
+
+
+#profile {
+  text-align: left;
+  float: left;
+  width: 30%;
+  overflow: auto;
+  height: auto;
+  clear: both;
+  padding: 0px 50px 20px 0px;
+
+}
+
+#full {
+  text-align: center;
+  width: 100%;
+  margin-right: 100px;
+  overflow: auto;
+  clear: both;
+  background-image: url("http://www.klushandel.nl/images/Dibond_butlerfinish_edel.jpg");
+}
+
+#contact  {
+  float: right;
+  text-align: center;
+  height: 150px;
+  width: 20%;
+  margin-top: 50px;
+  margin-right: 120px;
+  padding: 10px;
+  background: #EAECEE;
+}
+
+#icons {
+  height: auto; 
+  width: auto; 
+  max-width: 40px; 
+  max-height: 40px;
+  padding: 10px;
+  background: #EAECEE;
+}
+
+#contact_form {
+  text-align: left;
+  vertical-align: center;
+  width: 250px;
+  height: 340px;
+  clear: both;
+  padding: 30px 30px 0px 30px;
+  margin-top: 50px;
+  margin-bottom: 80px;
+  margin-left: auto;
+  margin-right: auto;
+  background: #EAECEE;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 16pt;
+  color:#17202A;
+}
+
+#portfolio {
+  float: left;
+  width: 42%;
+  height: auto;
+  padding: 0px 0px 50px 30px;
+  margin-left: 150px;
+  margin-top: 50px;
+  margin-bottom: 60px;
+  background: #EAECEE;
+}
+
+#portfolioimages {
+  position: relative;
+  float: left;
+  width: 300px;
+  height: auto;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  z-index: 1;
+}
+
+#label_1 {
+  width: 300px;
+  top: 400px;
+  text-align: center;
+  padding: 10px 0px 10px 0px;
+  font-size: 18px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #D5D8DC;
+  background: #17202A;
+  z-index: 2;
+  clear: both;
+
+}
+
+#label_2 {
+  width: 300px;
+  top: 400px;
+  left: 510px;
+  text-align: center;
+  padding: 10px 0px 10px 0px;
+  font-size: 18px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #D5D8DC;
+  background: #17202A;
+  z-index: 3;
+  clear: both;
+}
+
+#label_3 {
+  position: absolute;
+  width: 300px;
+  top: 800px;
+  text-align: center;
+  padding: 10px 0px 10px 0px;
+  font-size: 18px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #D5D8DC;
+  background: #17202A;
+  z-index: 4;
+  clear: both;
+
+}
+
+#submit_button {
+	font-family: 'Rubik Mono One', sans-serif;
+	font-size: 8pt;
+}
+
+.btn-link:link {
+  color: #17202A;
+}
+
+/* visited link */
+.btn-link:visited {
+  color: #17202A;
+}
+
+/* mouse over link */
+.btn-link:hover {
+  color: #17202A;
+}
+
+/* selected link */
+.btn-link:active {
+    color: #17202A;
+}
